@@ -38,6 +38,18 @@ more directly see details such as the RT times, SPL, Impulse, and other acoustic
 You can also re-create the IRs in the IR folder but with different windowing if you would like to try something
 different to the way I windowed the IRs in the 'IRs' folders.
 
+The last folder is titled 'FullAcousticData' it contains a text file with all the acoustic data that was gathered for my masters thesis, it include halls that were in the Reverbdata set:
+
+Alarcão, Diogo, António Couto Pinto, Gabriela Marramaque, and Francisco Mendonça. "REVERBDATA–A RIR DATABASE OF PORTUGUESE ARCHITECTONIC SPACES."
+
+This dataset contains 12 large historical spaces in Portugal. The Acosutic features in the text file include:
+
+- Speech Transmission Index
+- Volume
+- Seat Capacity
+- Acousstic Density
+- RT data from 125Hz to 8000 Hz
+
 ## Use Cases
 
 - Research in Acoustics 
