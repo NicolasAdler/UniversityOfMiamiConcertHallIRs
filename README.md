@@ -47,7 +47,7 @@ This dataset contains 12 large historical spaces in Portugal. The Acosutic featu
 - Speech Transmission Index
 - Volume
 - Seat Capacity
-- Acousstic Density
+- Acoustic Density
 - RT data from 125Hz to 8000 Hz
 
 ## Use Cases
